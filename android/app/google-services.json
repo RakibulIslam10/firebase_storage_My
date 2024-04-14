@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "832637562825",
+    "project_id": "vpn-app-87992",
+    "storage_bucket": "vpn-app-87992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832637562825:android:422395fdb39e2f1214c218",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBPJM0Cao7B68uOmbJqQBU_J26-zFuOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832637562825:android:e557e8130ca04f3214c218",
+        "android_client_info": {
+          "package_name": "com.freevpn.lowping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBPJM0Cao7B68uOmbJqQBU_J26-zFuOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-9662671355476806~7981134000"
+    }
+  ],
+  "configuration_version": "1"
+}
