@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:untitled1/controller/home_screen_controller.dart';
-import 'package:untitled1/screen/image_upload_screen.dart';
 import 'package:untitled1/utils/conts.dart';
 import 'package:untitled1/widgets/flotingButton.dart';
 
